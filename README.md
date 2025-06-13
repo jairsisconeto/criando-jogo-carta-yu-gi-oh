@@ -44,4 +44,4 @@ Durante a construção deste projeto, implementei diversas técnicas, incluindo:
 Clone este repositório e abra o arquivo `index.html` em um navegador compatível.
 
 ## 🎮 Demonstração  
-Você pode conferir o jogo funcionando diretamente [aqui](https://criando-jogo-memoria-emojis-utiliza.vercel.app/).
+Você pode conferir o jogo funcionando diretamente [aqui](https://criando-jogo-carta-yu-gi-oh.vercel.app/).
