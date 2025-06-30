@@ -1,6 +1,3 @@
-![Yu-Gi-Oh card game w](https://github.com/user-attachments/assets/72b049d2-4d86-4585-8837-d7b34e4931be)
-
-
 # Jogo de Cartas do Yu-Gi-Oh!    
 
 Este é um jogo de cartas inspirado em **Yu-Gi-Oh!**, desenvolvido utilizando **HTML, CSS e JavaScript**. Ao longo deste projeto, explorei conceitos essenciais para estruturar, estilizar e criar uma mecânica de duelo interativa no navegador.
@@ -48,3 +45,6 @@ Clone este repositório e abra o arquivo `index.html` em um navegador compatíve
 
 ## 🎮 Demonstração  
 Você pode conferir o jogo funcionando diretamente [aqui](https://criando-jogo-carta-yu-gi-oh.vercel.app/).
+
+![Yu-Gi-Oh card game w](https://github.com/user-attachments/assets/72b049d2-4d86-4585-8837-d7b34e4931be)
+
